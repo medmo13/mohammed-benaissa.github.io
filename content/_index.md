@@ -42,9 +42,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Postdoctoral computational scientist specializing in first-principles materials modeling, multiscale simulations, and data-driven methods. My research focuses on deep learning models for predicting spectral properties of molecules and materials, and accelerating materials discovery using Bayesian optimization and genetic algorithms.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I integrate theory, simulation, and experiment to understand and design functional materials for renewable energy and semiconductor technologies.
 
         Please reach out to collaborate 😃
     design:
