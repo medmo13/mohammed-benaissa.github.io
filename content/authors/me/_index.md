@@ -142,5 +142,9 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/mohammed-benaissa-89a8b1204/
 
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+
 superuser: true
 ---
