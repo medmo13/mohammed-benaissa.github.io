@@ -109,6 +109,14 @@ skills:
     icon: git-alt
     icon_pack: fab
 
+contact:
+  email: med.benaissa.dz@gmail.com
+  phone: +213 0698632761
+  address:
+    street: 02 Hay Koudia
+    city: Tlemcen
+    country: Algeria
+
 social:
   - icon: envelope
     icon_pack: fas
@@ -124,7 +132,7 @@ social:
 
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0000-0000-0000-0000
+    link: https://orcid.org/0000-0002-8168-3085
 
   - icon: github
     icon_pack: fab
