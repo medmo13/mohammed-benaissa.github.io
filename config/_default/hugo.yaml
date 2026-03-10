@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: 'Mohammed Benaissa, Ph.D.'
 # Website URL
-baseURL: 'https://medmo13.github.io/mohammed-benaissa.github.io/'
+baseURL: 'https://medmo13.github.io/'
 
 ############################
 ## LANGUAGE
