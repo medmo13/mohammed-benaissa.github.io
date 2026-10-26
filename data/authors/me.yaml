@@ -1,0 +1,17 @@
+"schema": "hugoblox/author/v1"
+"slug": "me"
+"name":
+  "display": "Mohammed Benaissa"
+"is_owner": true
+"role": "Postdoc Researcher | Computational Physics & Materials Science"
+"bio": "Postdoctoral-level computational scientist with broad expertise spanning first-principles materials modeling,
+
+  multiscale simulations, data-driven methods, and experimental characterization interfaces.
+
+  Authorized 17 peer-reviewed journal articles and 14 international conference presentations."
+"interests":
+  - "First-principles materials modeling"
+  - "Multiscale simulations"
+  - "Data-driven methods (ML, Bayesian optimization)"
+  - "Experimental characterization (XRD, XPS)"
+  - "Atomistic & Electronic Structure Modeling"
