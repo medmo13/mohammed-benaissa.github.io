@@ -1,6 +1,7 @@
 ---
 title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+summary: Easily manage your projects - create ideation mind maps, Gantt charts,
+  todo lists, and more!
 date: 2023-10-23
 authors:
   - me
@@ -8,23 +9,24 @@ tags:
   - Hugo Blox
   - Markdown
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com)"
 cover:
-  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
+  image: https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560
   position:
     x: 50
     y: 40
   overlay:
     enabled: true
-    type: "gradient"
+    type: gradient
     opacity: 0.4
-    gradient: "bottom"
+    gradient: bottom
   fade:
     enabled: true
-    height: "80px"
+    height: 80px
   icon:
-    name: "✨"
+    name: ✨
 ---
+
 
 Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
 
